@@ -1,3 +1,8 @@
+# This program prompts the user to enter a whole number between 1-100, calculates the square of that number
+# and then prints both the entered number and its square.
+# Name: Coleman Lau
+# Date: 9/2/2026
+
 print('Enter a whole number between 1-100')
 valueEntered = int(input())
 # valEntered will take the users input and converts it to an integer

@@ -1,8 +1,12 @@
-'''
-Create a function—call it midpoint —that takes two numbers as input and returns the value halfway between them. 
-'''
+# This program prompts the user to enter two numbers and will return the midpoint between them.
+# Name: Coleman Lau
+# Date: 9/9/2026
 
+num1 = int(input("Enter the first number: "))
+num2 = int(input("Enter the second number: "))
+
+# Function to calculate the midpoint between two numbers
 def midpoint(num1, num2):
     return (num1 + num2) / 2
 
-print(midpoint(10, 20))  # Output: 15.0
+print(midpoint(num1, num2))  # Output: midpoint between num1 and num2

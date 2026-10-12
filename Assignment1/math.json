@@ -1,0 +1,32 @@
+{
+  "Which is the ratio of the opposite side to the hypotenuse?": [
+    "Sine",
+    "Cosine",
+    "Cosecant",
+    "Tanget"
+  ],
+  "Which is the ratio of the adjacent side to the hypotenuse?": [
+    "Cosine",
+    "Sine",
+    "Secant",
+    "Cotangent"
+  ],
+  "Which value is equal to 4!?": [
+    "24",
+    "4",
+    "12",
+    "720"
+  ],
+  "What is 2 + 2?": [
+    "4",
+    "5",
+    "6",
+    "7"
+  ],
+  "Who is the father of Trigonemetry?": [
+    "Hipparchus",
+    "Archimedes",
+    "Pythagoras",
+    "Euler"
+  ]
+}

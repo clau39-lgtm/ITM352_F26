@@ -1,0 +1,38 @@
+{
+  "What is the capital of France?": [
+    "Paris",
+    "Lyon",
+    "Marseille",
+    "Toulouse"
+  ],
+  "What is the capital of Germany?": [
+    "Berlin",
+    "Munich",
+    "Hamburg",
+    "Cologne"
+  ],
+  "What is the capital of Japan?": [
+    "Tokyo",
+    "Kyoto",
+    "Osaka",
+    "Nagoya"
+  ],
+  "The Last Supper was painted by which artist?": [
+    "Leonardo da Vinci",
+    "Michelangelo",
+    "Raphael",
+    "Donatello"
+  ],
+  "Which NHL player has the most career points?": [
+    "Wayne Gretzky",
+    "Gordie Howe",
+    "Mario Lemieux",
+    "Jaromir Jagr"
+  ],
+  "Which classic novel opens with the line 'Call me Ishmael'?": [
+    "Moby Dick",
+    "The Great Gatsby",
+    "To Kill a Mockingbird",
+    "1984"
+  ]
+}

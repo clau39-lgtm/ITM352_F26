@@ -1,0 +1,32 @@
+{
+  "What is the capital of France?": [
+    "Paris",
+    "Lyon",
+    "Marseille",
+    "Toulouse"
+  ],
+  "What is the capital of Germany?": [
+    "Berlin",
+    "Munich",
+    "Hamburg",
+    "Cologne"
+  ],
+  "What is the capital of Japan?": [
+    "Tokyo",
+    "Kyoto",
+    "Osaka",
+    "Nagoya"
+  ],
+  "What is the capital of Italy?": [
+    "Rome",
+    "Milan",
+    "Naples",
+    "Florence"
+  ],
+  "What is the capital of Spain?": [
+    "Madrid",
+    "Barcelona",
+    "Valencia",
+    "Seville"
+  ]
+}

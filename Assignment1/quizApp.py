@@ -95,6 +95,7 @@ def get_answer(alternative_answers, correct_answer, can_use_fifty_fifty):
                 if index not in removed_indices
             ]
             lifeline_used = True
+    # This section of the code handles the case where the 50/50 lifeline is unavailable due to insufficient wrong answers.
     elif can_use_fifty_fifty:
         print("50/50 is unavailable because this question has fewer than two wrong answers.")
 

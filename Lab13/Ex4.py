@@ -104,7 +104,7 @@ RESULT_TEMPLATE = """
     <h1>Quiz Complete!</h1>
     {% for message in messages %}<p class="message">{{ message }}</p>{% endfor %}
     <p>You got {{ score }} out of {{ total_questions }} questions correct.</p>
-    <a href="{{ url_for('index') }}">Play Again</a>
+    <button><a href="{{ url_for('index') }}">Play Again</a></button>
 </body>
 </html>
 """

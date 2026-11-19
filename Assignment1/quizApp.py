@@ -65,6 +65,20 @@ if not isinstance(questions, dict) or not questions:
         f"{quiz_file.name} must contain a non-empty object of questions and answers."
     )
 
+normalized_questions = {}
+for question, question_data in questions.items():
+    answers = (
+        question_data.get("answers")
+        if isinstance(question_data, dict)
+        else question_data
+    )
+    if not isinstance(answers, list) or not answers or not all(
+        isinstance(answer, str) for answer in answers
+    ):
+        raise ValueError(f"{quiz_file.name} contains an invalid question or answer list.")
+    normalized_questions[question] = answers
+questions = normalized_questions
+
 
 NUM_QUESTIONS_PER_QUIZ = 5
 

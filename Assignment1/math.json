@@ -1,32 +1,22 @@
 {
-  "Which is the ratio of the opposite side to the hypotenuse?": [
-    "Sine",
-    "Cosine",
-    "Cosecant",
-    "Tanget"
-  ],
-  "Which is the ratio of the adjacent side to the hypotenuse?": [
-    "Cosine",
-    "Sine",
-    "Secant",
-    "Cotangent"
-  ],
-  "Which value is equal to 4!?": [
-    "24",
-    "4",
-    "12",
-    "720"
-  ],
-  "What is 2 + 2?": [
-    "4",
-    "5",
-    "6",
-    "7"
-  ],
-  "Who is the father of Trigonemetry?": [
-    "Hipparchus",
-    "Archimedes",
-    "Pythagoras",
-    "Euler"
-  ]
+  "Which is the ratio of the opposite side to the hypotenuse?": {
+    "answers": ["Sine", "Cosine", "Cosecant", "Tanget"],
+    "explanation": "Sine is the ratio of the length of the side opposite an angle to the length of the hypotenuse in a right triangle."
+  },
+  "Which is the ratio of the adjacent side to the hypotenuse?": {
+    "answers": ["Cosine", "Sine", "Secant", "Cotangent"],
+    "explanation": "Cosine is the ratio of the length of the side adjacent to an angle to the length of the hypotenuse in a right triangle."
+  },
+  "Which value is equal to 4!?": {
+    "answers": ["24", "4", "12", "720"],
+    "explanation": "4! (4 factorial) is equal to 4 * 3 * 2 * 1 = 24."
+  },
+  "What is 2 + 2?": {
+    "answers": ["4", "5", "6", "7"],
+    "explanation": "2 + 2 = 4."
+  },
+  "Who is the father of Trigonemetry?": {
+    "answers": ["Hipparchus", "Archimedes", "Pythagoras", "Euler"],
+    "explanation": "While there are several contributors to the field of trigonometry, Hipparchus is often considered the father of trigonometry."
+  }
 }

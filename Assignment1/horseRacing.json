@@ -1,32 +1,22 @@
 {
-  "Which horse won the Arima Kinen in 1990?": [
-    "Oguri Cap",
-    "Mejiro Ryan",
-    "Tamamo Cross",
-    "Mejiro Ardan"
-  ],
-  "How many Grade 1 Races did Symboli Rudolf win?": [
-    "7",
-    "10",
-    "5",
-    "20"
-  ],
-  "Which horse won the Japan Cup in 2017?": [
-    "Cheval Grand",
-    "El Condor Pasa",
-    "Better Loosen Up",
-    "Special Week"
-  ],
-  "Which horse is famously nicknamed 'The Emperor'?": [
-    "Symboli Rudolf",
-    "Gentildonna",
-    "Mejiro Mcqueen",
-    "Air Groove"
-  ],
-  "Which horse is famously known as 'The Silver Collector'?": [
-    "Stay Gold",
-    "Dream Journey",
-    "Fenomeno",
-    "Epiphaneia"
-  ]
+  "Which horse won the Arima Kinen in 1990?": {
+    "answers": ["Oguri Cap", "Mejiro Ryan", "Tamamo Cross", "Mejiro Ardan"],
+    "explanation": "Oguri Cap won the Arima Kinen in 1990 with it's jockey Yutaka Take."
+  },
+  "How many Grade 1 Races did Symboli Rudolf win?": {
+    "answers": ["7", "10", "5", "20"],
+    "explanation": "Symboli Rudolf won 7 Grade 1 races during his career."
+  },
+  "Which horse won the Japan Cup in 2017?": {
+    "answers": ["Cheval Grand", "El Condor Pasa", "Better Loosen Up", "Special Week"],
+    "explanation": "Cheval Grand won the Japan Cup in 2017 with it's jockey Hugh Bowman."
+  },
+  "Which horse is famously nicknamed 'The Emperor'?": {
+    "answers": ["Symboli Rudolf", "Gentildonna", "Mejiro Mcqueen", "Air Groove"],
+    "explanation": "Symboli Rudolf is famously nicknamed 'The Emperor' due to his dominant performances on the racetrack and his name being tied to Rudolf I of Germany (The first Habsburgking of Germany)."
+  },
+  "Which horse is famously known as 'The Silver Collector'?": {
+    "answers": ["Stay Gold", "Dream Journey", "Fenomeno", "Epiphaneia"],
+    "explanation": "Stay Gold is famously known as 'The Silver Collector'. Throughout his 50-race career, Stay Gold finished second 12 times, earning him the nickname 'The Silver Collector'."
+  }
 }

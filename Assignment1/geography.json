@@ -1,32 +1,22 @@
 {
-  "What is the capital of France?": [
-    "Paris",
-    "Lyon",
-    "Marseille",
-    "Toulouse"
-  ],
-  "What is the capital of Germany?": [
-    "Berlin",
-    "Munich",
-    "Hamburg",
-    "Cologne"
-  ],
-  "What is the capital of Japan?": [
-    "Tokyo",
-    "Kyoto",
-    "Osaka",
-    "Nagoya"
-  ],
-  "What is the capital of Italy?": [
-    "Rome",
-    "Milan",
-    "Naples",
-    "Florence"
-  ],
-  "What is the capital of Spain?": [
-    "Madrid",
-    "Barcelona",
-    "Valencia",
-    "Seville"
-  ]
+  "What is the capital of France?": {
+    "answers": ["Paris", "Lyon", "Marseille", "Toulouse"],
+    "explanation": "Paris is France's capital and largest city, known for its art, fashion, and culture."
+  },
+  "What is the capital of Germany?": {
+    "answers": ["Berlin", "Munich", "Hamburg", "Cologne"],
+    "explanation": "Berlin is Germany's capital and largest city, known for its history and vibrant cultural scene."
+  },
+  "What is the capital of Japan?": {
+    "answers": ["Tokyo", "Kyoto", "Osaka", "Nagoya"],
+    "explanation": "Tokyo is Japan's capital and most populous city, known for its modern skyline and rich cultural heritage."
+  },
+  "What is the capital of Italy?": {
+    "answers": ["Rome", "Milan", "Naples", "Florence"],
+    "explanation": "Rome is Italy's capital and largest city, known for its ancient history and vibrant culture."
+  },
+  "What is the capital of Spain?": {
+    "answers": ["Madrid", "Barcelona", "Valencia", "Seville"],
+    "explanation": "Madrid is Spain's capital and largest city, known for its art, culture, and vibrant nightlife."
+  }
 }
